@@ -1,5 +1,5 @@
-# Advanced Array Project
-
+# Advanced Array Project -Completed
+### Description
 It's time to get some practice using Node.js and the advanced Array methods!
 Included are a number of array-related problems.
 
