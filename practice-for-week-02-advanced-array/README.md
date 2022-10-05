@@ -1,7 +1,9 @@
 <h1 align="center">Advanced Array Project - Completed</h1>
 <h3 align="center"> Description </h2>
 
-
+</br>
+</br>
+</br>
 
 
 It's time to get some practice using Node.js and the advanced Array methods!
